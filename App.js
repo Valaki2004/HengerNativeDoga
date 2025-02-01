@@ -1,3 +1,12 @@
+/*
+* File: App.js
+* Author: Varas-Tóth Gergő
+* Copyright: 2025, Varas-Tóth Gergő
+* Group: Szoft II/I/N
+* Date: 2025-02-01
+* Github: https://github.com/Valaki2004
+* Licenc: GNU GPL
+*/
 import React, { useState } from 'react';
 import { View, Text, TextInput, Button, StyleSheet, Alert } from 'react-native';
 import "@expo/metro-runtime";
